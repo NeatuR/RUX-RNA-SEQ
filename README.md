@@ -1,6 +1,6 @@
 # RUX-RNA-SEQ
 
-RUX-RNA-SEQ is a novel technique designed for transcript detection in the genome. All you need is a Galaxy account (it's free and it comes with 200GB!). No coding skills required!
+This RNA-SEQ is designed for the computational prediction of transcripts in the genome. All you need is a Galaxy account (it's free and it comes with 200GB!). No coding skills required!
 
 ![](figures/R_SEQ.gif)
 
