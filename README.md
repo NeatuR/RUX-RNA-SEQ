@@ -1,6 +1,6 @@
 # RUX-RNA-SEQ
 
-This RNA-SEQ is designed for the computational prediction of transcripts in the genome. All you need is a Galaxy account (it's free and it comes with 200GB!). No coding skills required!
+This RNA-SEQ pipeline is designed for the computational prediction of transcripts in the genome. All you need is a Galaxy account (it's free and it comes with 200GB!). No coding skills required!
 
 ![](figures/R_SEQ.gif)
 
