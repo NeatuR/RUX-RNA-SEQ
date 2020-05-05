@@ -4,4 +4,4 @@ This RNA-SEQ pipeline is designed for the computational prediction of transcript
 
 ![](figures/R_SEQ.gif)
 
-I've collected data from 27 independent studies and focused on 20,500 nt in a "dark" region of a human genome (article coming soon on BioRxiv; stay tooned!). An extensive step-by-step guide will be availabe here shortly. 
+I've collected data from 27 independent studies and focused on 20,500 nt in a "dark" region of a human genome (article coming soon on BioRxiv; stay tuned!). An extensive step-by-step guide will be availabe here shortly. 
